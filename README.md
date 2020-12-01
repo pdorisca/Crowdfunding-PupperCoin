@@ -75,6 +75,10 @@ Build out the contracts below for deployment.
 
 Reminber the refund feature of `RefundablePostDeliveryCrowdsale` only allows for refunds once the crowdsale is closed **and** the goal is met. See the [OpenZeppelin RefundableCrowdsale](https://docs.openzeppelin.com/contracts/2.x/api/crowdsale#RefundableCrowdsale) documentation for details as to why this is logic is used to prevent potential attacks on your token's value.
 
+## You can add custom tokens in MyCrypto from the `Add custom token` feature:
+
+![add-custom-token](https://i.imgur.com/p1wwXQ9.png)
+
 ## Send Transaction to contract wallet in Mycrypto
 
 ![SEND2WALLET](/screenshots_pup/SEND2WALLET.png)
@@ -109,12 +113,6 @@ Reminber the refund feature of `RefundablePostDeliveryCrowdsale` only allows for
 
 ## Sale Goal Reached
 ![GOAL_REACHED](/screenshots_pup/GOAL_REACHED.png)
-
-
-
-## You can add custom tokens in MyCrypto from the `Add custom token` feature:
-
-![add-custom-token](https://i.imgur.com/p1wwXQ9.png)
 
 
 ## Added the PC token to Mycrypto Account
