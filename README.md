@@ -1,2 +1,2 @@
-# PupperCoin-Crowdfun
+# Crowdfunding-PupperCoin
 Advanced Solidity
