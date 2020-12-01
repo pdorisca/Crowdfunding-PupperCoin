@@ -4,7 +4,7 @@ Advanced Solidity
 
 ![kisspng](/Images/kiss.png)
 
-## Project: Crowdsale PupperCoin token in order to help fund the network development
+## Project: Crowdsale the company's PupperCoin token in order to help fund the network development.
 
 The network will be used to track the dog breeding activity across the globe in a decentralized way, and allow humans to track the genetic trail of their pets after all the necessary legal bodies give approval on creating a crowdsale open to the public. The requirements are to enable refunds if the crowdsale is successful and the goal is met, and only a maximum of 300 Ether are allowed to be raised. The crowdsale will run for 24 weeks.
 
