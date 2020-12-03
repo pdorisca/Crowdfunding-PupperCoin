@@ -54,7 +54,7 @@ contract PupperCoinSaleDeployer {
         
 
         // make the PupperCoinSale contract a minter, then have the PupperCoinSaleDeployer renounce its minter role
-        token.addMinter(token_sale_address);
+        token.addMinter(pupper_token_address);
         token.renounceMinter();
     }
 }
